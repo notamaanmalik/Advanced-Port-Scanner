@@ -1,10 +1,10 @@
 # Advanced-Port-Scanner
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [How to use](#how-to-use)
-- [Options](#options)
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [How to use](#how-to-use)
+4. [Options](#options)
 
 ---
 
