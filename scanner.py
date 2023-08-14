@@ -91,7 +91,7 @@ if __name__ == "__main__":
             os = parts[8]
             print("""%s/tcp     %s                 %s          %s""" % (port,name,state,product))
     elif arguments.synack:
-        comprehensive_scan(arguments.start,arguments.end)
+        synack_scan(arguments.start,arguments.end)
         opentcp = nm[arguments.ip]['tcp'].keys()
         for i in opentcp:
             print("""%s/tcp      open     %s""" % (i,nm[arguments.ip]['tcp'][i]['name']))
